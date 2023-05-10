@@ -14,9 +14,21 @@ Once the data is encrypted and the secure folder is created, the user can use th
 
 ## Installation
 
-To use "3ncypt0rQR," you will need Python 3 and the PyOTP library installed. You can install PyOTP using pip:
+3ncypt0rQR Installation Guide
 
-pip install pyotp
+1. Install Python 3 if you haven't already. You can download Python from the official website: https://www.python.org/downloads/
+
+2. Install PyOTP using pip. Open your command prompt or terminal and type the following command:
+   pip install pyotp
+
+3. Download the "hid.py" file and place it in your desired location.
+
+4. Run the "hid.py" file using Python. You can do this by navigating to the directory where the file is located in your command prompt or terminal, and typing the following command:
+   python hid.py
+
+5. Follow the prompts to hide your  folder and generate a QR code and secret key for 2FA.
+
+
 
 ## Contributing
 
